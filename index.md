@@ -6,5 +6,22 @@
 
 Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
 
-## Example:
-![Image of Yaktocat](https://images.ctfassets.net/s5uo95nf6njh/WQl0knGUCPUnonDgphRGa/31bdf9f93d43d4b75d5598ab01ef61c0/nasa-ingenuity-helicopter-spot-2.jpg?w=720&fm=avif)
+### Example of Add Image:
+![Image of Headings](https://docs.github.com/assets/cb-11407/mw-1440/images/help/writing/headings-rendered.webp)
+
+Let's add some code blocks. Code blocks can render differently depending on the language.
+
+### Example Code Block 1:
+``` bash
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+### Example Code Block 2:
+``` javascript
+var myVar = "Hello, world!";
+```
+### Using Task list:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
